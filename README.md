@@ -8,4 +8,4 @@ APIs in the network.
 
 Along the way however, it will be necessary to cobble up some
 name generator code, and a city name generator along with a full address generator.
-Mostly these tools will be needed in the CompositeDB API and in the "telegraph" module
+Mostly these tools will be needed in the CompositeDB API and in the "beacon" module

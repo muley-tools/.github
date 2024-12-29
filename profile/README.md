@@ -10,8 +10,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This Project is meant to house various experiments and tools that might be of interest to students of Mulesoft's **Anypoint Platform**
-
 The initial collection is designed to implement a bare bones Application Network, one that is suitable to frame
 a converstion about the **Anypoint Platform Visualizer**
 
